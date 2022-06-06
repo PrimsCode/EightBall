@@ -1,0 +1,19 @@
+.EightBall-container {
+    display: flex;
+    background-color: black;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    padding: 10px;
+    height: 200px;
+    width: 200px;
+    color:white;
+}
+
+.EightBall-counter {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    margin:10px
+}
